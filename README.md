@@ -98,3 +98,8 @@ This project is an iOS application built using UIKit that consumes data from a p
 ## How to Run the Project
 
 1. Clone the repository using the command:
+
+
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-04-18 at 10 31 58](https://github.com/user-attachments/assets/44f45541-01ee-4ec3-b4ea-bd9bec14af13)
+
